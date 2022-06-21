@@ -1,2 +1,1 @@
-Github
-Aprendendo a usar o git na prática
+# Projeto Android, utilizando React Native
